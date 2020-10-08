@@ -1,6 +1,6 @@
 # RESUME < Joonghu Park >
 
-## 개인 이력사항
+## 자기 소개 작성 
 
 #### 이름 : 박중후
 #### email : wndgn98@naver.com
@@ -26,3 +26,19 @@
 *********
 * 운동하기 
 * 축구하기
+
+[학교홈페이지](http://www.hallym.ac.kr)
+-----
+
+### 관심있는 사이트 목록
+[구글][google]  
+[깃허브][github]
+
+### 주요 검색사이트
+[네이버][naver]  
+[다음][daum]
+
+[google]: https://www.google.com
+[naver]: https://naver.com
+[github]: https://github.com
+[daum]: https://daum.net
