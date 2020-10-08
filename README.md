@@ -4,10 +4,12 @@
 
 #### 이름 : 박중후
 #### 학번 : 20175222
+#### 소속 : 소프트웨어융합대학
 #### 전공 : 스마트IoT전공
-#### email : wndgn98@naver.com
 #### 대학 : Hallym university
+#### email : wndgn98@naver.com
 
+-----------
 
 > 취미 
 >> 볼링치기    
@@ -57,6 +59,14 @@
 ### 주요 검색사이트
 [네이버][naver]  
 [다음][daum]
+
+----------
+![TY icon](/TY.jpg)
+
+-----------
+[깃허브주소](https://github.com/joong-park)
+
+
 
 [google]: https://www.google.com
 [naver]: https://naver.com
